@@ -1,7 +1,8 @@
 # Git-Cheatsheet
 
 
+- Clone the repository:
 
-'''bash
-git init
-'''
+```bash
+  git clone "address"
+```
